@@ -1,0 +1,30 @@
+{
+  "generated_at": "2025-07-26T20:02:52.080Z",
+  "total_images": 3,
+  "images": [
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/BILA-LOGO-1024x609.png",
+      "file_path": "public/images/logo-main.png",
+      "file_name": "logo-main.png",
+      "description": "Primary logo for the 'VŠE PRO STAVBY.CZ' website, featuring the company name.",
+      "suggested_usage": "Use as the main site logo in the header for branding and navigation.",
+      "size_bytes": 116158
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD2-scaled-1-1024x576.jpg",
+      "file_path": "public/images/gallery-tanvald-project-wide.jpg",
+      "file_name": "gallery-tanvald-project-wide.jpg",
+      "description": "Wide shot of a construction project or completed building, potentially located in Tanvald, showcasing the company's work.",
+      "suggested_usage": "Use in a project gallery, portfolio, or a 'Our Work' section to display completed projects effectively. Could also be used as a background for a hero section.",
+      "size_bytes": 167094
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/RDPO.jpg",
+      "file_path": "public/images/content-residential-house-exterior.jpg",
+      "file_name": "content-residential-house-exterior.jpg",
+      "description": "Image of a residential house exterior, likely a completed new build or a renovated property 'RDPO' (implies 'Residential House' or similar).",
+      "suggested_usage": "Use within 'Services' (e.g., New Builds, Renovations), 'Portfolio', or 'About Us' sections to visually represent the company's expertise in residential construction.",
+      "size_bytes": 558411
+    }
+  ]
+}
